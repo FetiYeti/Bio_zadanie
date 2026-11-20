@@ -1,0 +1,12 @@
+data/generated/*
+!data/generated/features.npz
+!data/generated/metadata.csv
+__pycache__/
+*.pyc
+.venv/
+demo_out/
+data/own/*
+!data/own/.gitkeep
+data/real_app/*
+!data/real_app/.gitkeep
+user_data/
